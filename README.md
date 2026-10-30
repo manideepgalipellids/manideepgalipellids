@@ -2,8 +2,6 @@
 
 ### Master's Student in Data Science | Machine Learning | Generative AI | Data Engineering | AI Agents
 
-I'm a Master's student in **Data Science at the University of Europe for Applied Sciences**, with a background in Computer Science and a strong interest in building practical, data-driven and intelligent systems.
-
 I enjoy working across the complete data and AI lifecycle — from **data collection and preprocessing to machine learning, data pipelines, intelligent applications and deployment**.
 
 ---
